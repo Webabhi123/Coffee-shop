@@ -1,0 +1,52 @@
+﻿body {
+    
+}
+
+#header{
+    
+}
+#coffeelogo
+{
+    width:15%;
+    height:5%
+}
+
+
+#footer #social
+{
+    /*display:inline-flex;*/
+    margin-left:80%;
+}
+#social {
+    display: inline-flex;
+    list-style-type: none;
+    margin-left: 73%;
+    /*margin-top: 12%;*/
+}
+#social .icon 
+{
+    margin: 0 12px;
+    font-size: 34px;
+}
+h4 {
+    margin-left: 82%;
+    margin-top: -3%;
+    font-size: 23px;
+}
+p {
+    margin-left: 80%;
+    text-align: center;
+    margin-top:-1%;
+}
+/*#footer .icon1 {
+    margin-left: -205%;
+    margin-top: -11%;
+}*/
+#social1 {
+    /*margin-right: 2%;*/
+    margin-top: -5%;
+    /*    list-style-type: none;*/
+}
+/*Webform 1*/
+
+    
